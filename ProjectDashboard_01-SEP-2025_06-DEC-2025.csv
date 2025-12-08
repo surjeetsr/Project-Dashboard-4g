@@ -1,0 +1,39 @@
+Circle,Site Id/ Cluster Name/ Activity,Status Date,Drive Status,Missing Test Case,Site Status,Device Count,Login Count,Audit
+KO,KO0810_KOL_P45,Sep 15 2025 11:18AM,Drive Completed,NO,FAIL,1,1,Uploaded
+KK,HPT005_BEL_P45,Sep 15 2025  1:22PM,Drive Completed,NO,FAIL,2,1,Uploaded
+BH,BHNXR-02_PAT_P45,Sep 17 2025  4:47PM,Drive Completed,NO,FAIL,2,1,NA
+WB,WBJ1410_ROB_P45,Sep 18 2025 10:57AM,Drive Completed,YES,Missing Test Case,2,1,Uploaded
+WB,WBJ1351_ROB_P45,Sep 18 2025  8:18PM,Drive Completed,NO,PASS,2,1,Uploaded
+TN,PDKT79_PKT_P45,Sep 18 2025  9:38PM,Drive Completed,YES,Missing Test Case,2,1,Uploaded
+GJ,GU0051_GJ_P53,Sep 19 2025 11:05AM,Drive Completed,YES,Missing Test Case,2,1,NA
+KL,HPSC1529_KTM_P47,Sep 20 2025 12:11PM,Drive Completed,NO,FAIL,2,1,Uploaded
+KK,TMBDI2_TUM_P45,Sep 20 2025  9:11PM,Drive Completed,YES,Missing Test Case,1,1,NA
+AP,RMPL11_KRN_P53,Sep 27 2025  4:24PM,Drive Completed,YES,Missing Test Case,1,1,NA
+AP,RMPL11_KRN_P45,Sep 27 2025  4:25PM,Drive Completed,YES,Missing Test Case,1,1,NA
+MP,PVTG7917_GWL_P45,Oct  5 2025  2:02PM,Drive Completed,NO,FAIL,2,1,NA
+KK,MALR05_BEN_P49,Oct 26 2025  8:25AM,Partial Closed,NO,Partial Closed,2,1,NA
+KK,BG0199_BEN_P45,Nov  8 2025 11:38AM,WIP,NO,Site-WIP,1,1,NA
+UW,RKE160_ROR_P45,Nov  8 2025  5:23PM,Drive Completed,NO,FAIL,2,1,Uploaded
+UW,RKE160_ROR_P47,Nov  9 2025  1:50PM,Drive Completed,YES,Missing Test Case,2,1,Uploaded
+UW,RKE160_ROR_P49,Nov  9 2025  2:13PM,Drive Completed,YES,Missing Test Case,2,1,Uploaded
+TN,CB1216_CBE_P45,Nov 10 2025  1:20PM,Drive Completed,YES,Missing Test Case,2,1,NA
+TN,CB1216_CBE_P49,Nov 10 2025  1:50PM,Drive Completed,YES,Missing Test Case,1,1,NA
+KL,EKMI75_EKM_P49,Nov 10 2025  3:24PM,Drive Completed,NO,FAIL,1,1,Uploaded
+KK,BL0199_BEN_P49,Nov 10 2025  7:53PM,Drive Completed,YES,Missing Test Case,4,1,Uploaded
+KK,BG0184_BEN_P45,Nov 10 2025 10:14PM,Drive Completed,NO,FAIL,4,1,Uploaded
+KK,BG0184_BEN_P49,Nov 10 2025 10:38PM,Drive Completed,YES,Missing Test Case,4,1,Uploaded
+KK,AANGI1_BIJ_P47,Nov 11 2025  8:54AM,Drive Completed,NO,FAIL,2,1,NA
+KK,BOMH01_TUM_P47,Nov 11 2025  2:00PM,Drive Completed,NO,FAIL,4,1,Uploaded
+KL,MANI21_KOZ_P45,Nov 12 2025  5:20PM,Drive Completed,NO,FAIL,3,1,Uploaded
+KL,MANI21_KOZ_P47,Nov 12 2025  6:14PM,Drive Completed,NO,FAIL,3,1,Uploaded
+KL,CHEG01_ALP_P49,Nov 14 2025  6:40PM,Drive Completed,NO,FAIL,1,1,Uploaded
+KL,MANI21_KOZ_P49,Nov 22 2025 10:59AM,Drive Completed,NO,FAIL,5,1,Uploaded
+KK,BL0199_BEN_P47,Nov 23 2025  4:51PM,Partial Closed,NO,Partial Closed,6,1,Uploaded
+KK,BL0199_BEN_P45,Nov 23 2025  4:57PM,Partial Closed,NO,Partial Closed,6,1,Uploaded
+UW,DYKN02_BAR_P45,Nov 23 2025  6:55PM,Drive Completed,YES,Missing Test Case,1,1,NA
+KK,BL0199_BEN_P53,Nov 25 2025 11:12AM,Partial Closed,NO,Partial Closed,4,1,Uploaded
+MH,PUNHPSC1220_PNE_P45,Dec  4 2025 11:39AM,Drive Completed,YES,Missing Test Case,2,1,NA
+KK,KJRUS1_BEN_P47,Dec  5 2025 12:04PM,Drive Completed,NO,FAIL,2,1,Uploaded
+KK,KJRUS1_BLG_P47,Dec  5 2025  3:25PM,Drive Completed,YES,Missing Test Case,1,1,NA
+UW,RNDT01_BAR_P49,Dec  6 2025 10:44AM,WIP,NO,Site-WIP,1,1,Uploaded
+KK,CHKBD2_BLG_P47,Dec  6 2025 10:55AM,Drive Completed,NO,FAIL,4,1,Uploaded
