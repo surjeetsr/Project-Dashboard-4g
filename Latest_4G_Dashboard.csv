@@ -65,8 +65,11 @@ KK,HRKNG1_DAV_P47,Dec 29 2025  6:07PM,Drive Completed,NO,PASS,4,1,Uploaded
 KK,TNKOT1_TUM_P47,Dec 29 2025  6:10PM,Drive Completed,NO,PASS,5,1,Uploaded
 KK,BENAH1_DAV_P47,Dec 30 2025  2:59PM,Drive Completed,NO,PASS,4,1,Uploaded
 KK,BLNJE1_TUM_P47,Dec 31 2025 12:25PM,Drive Completed,NO,PASS,3,1,Uploaded
-WB,WBJ1638_ROB_P46,Dec 31 2025  2:14PM,Drive Completed,NO,FAIL,2,1,Uploaded
 KK,DAWAR2_BID_P47,Jan  2 2026  4:41PM,Drive Completed,NO,PASS,4,1,Uploaded
 KK,KOSAM1_BEN_P47,Jan  3 2026  9:13AM,Drive Completed,NO,PASS,3,1,Uploaded
 KK,DVMKT1_DAV_P47,Jan  3 2026  9:31AM,Drive Completed,NO,PASS,3,1,Uploaded
-KK,SALUR1_GUL_P47,Jan  8 2026  8:19AM,WIP,NO,Site-WIP,3,1,Uploaded
+KK,GDLGH1_GUL_P47,Jan  8 2026  7:06PM,Drive Completed,YES,Missing Test Case,2,1,Uploaded
+KK,SALUR1_GUL_P47,Jan  8 2026  9:52PM,Drive Completed,NO,PASS,4,1,Uploaded
+UE,CSH02_GON_P45,Jan 10 2026  2:58PM,WIP,NO,Site-WIP,1,1,NA
+UE,JNPR06_JAU_P45,Jan 10 2026  6:27PM,Drive Completed,NO,FAIL,2,1,NA
+UE,JNPR06_JAU_P49,Jan 10 2026  6:42PM,Drive Completed,YES,Missing Test Case,2,1,Uploaded
